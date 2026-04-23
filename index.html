@@ -1,0 +1,392 @@
+<!DOCTYPE html>  
+<html lang="en">  
+<head>  
+<meta charset="UTF-8">  
+<title>EURUSD SMC PRO</title>  
+  
+<script src="https://s3.tradingview.com/tv.js"></script>  
+  
+<style>  
+html, body{  
+  margin:0;  
+  padding:0;  
+  width:100%;  
+  height:100%;  
+  overflow:hidden;  
+  background:white;  
+}  
+  
+.chart-container{  
+  position:relative;  
+  width:100%;  
+  height:100vh;  
+}  
+  
+#chart{  
+  width:100%;  
+  height:100%;  
+}  
+  
+#overlay{  
+  position:absolute;  
+  top:0;  
+  left:0;  
+  width:100%;  
+  height:100%;  
+  pointer-events:none;  
+}  
+  
+.zone{ position:absolute; width:100%; opacity:0.25; }  
+.supply{ background:red; }  
+.demand{ background:lime; }  
+  
+.line{  
+  position:absolute;  
+  width:100%;  
+  height:2px;  
+  background:yellow;  
+}  
+</style>  
+</head>  
+  
+<body>  
+  
+<div class="chart-container">  
+  <div id="chart"></div>  
+  <div id="overlay"></div>  
+</div>  
+  
+<script>  
+    // =====================
+// NOTIFICATION PERMISSION
+// =====================
+if ("Notification" in window) {
+  if (Notification.permission !== "granted") {
+    Notification.requestPermission();
+  }
+} else {
+  console.warn("Notifications not supported on this device/browser");
+}
+    
+
+window.onload = () => {
+
+  new TradingView.widget({
+    width: "100%",
+    height: "100%",
+    symbol: "FX:EURUSD",
+    interval: "60",
+    theme: "dark",
+    style: "1",
+    container_id: "chart"
+  });
+
+  getData();
+  setInterval(getData, 60000);
+};
+
+const API_KEY = "322f38f6a7b6426f8bed653cde6e9dc1";
+let lastCandleTime = null;
+
+async function getData() {
+  try {
+
+    const url = `https://api.twelvedata.com/time_series?symbol=EUR/USD&interval=1h&outputsize=200&apikey=${API_KEY}`;
+
+    const res = await fetch(url);
+    const data = await res.json();
+
+    if (!data || data.status === "error") {
+      console.error("API ERROR:", JSON.stringify(data, null, 2));
+      return;
+    }
+
+    if (!data.values || data.values.length === 0) {
+      console.error("EMPTY RESPONSE:", data);
+      return;
+    }
+
+    const latest = data.values[0];
+
+    if (latest.datetime === lastCandleTime) return;
+
+    lastCandleTime = latest.datetime;
+    console.log("🚀 NEW CANDLE:", latest.datetime);
+
+    const candles = data.values.reverse();
+
+    const highs = candles.map(c => parseFloat(c.high));
+    const lows = candles.map(c => parseFloat(c.low));
+    const closes = candles.map(c => parseFloat(c.close));
+
+    if (highs.length < 50) return;
+
+    detectSMC(highs, lows, closes);
+
+  } catch (err) {
+    console.error("FETCH ERROR:", err);
+  }
+}
+
+// keep your loop (unchanged)
+getData();
+setInterval(getData, 60000);
+// =====================
+// SMC ENGINE (ENHANCED)
+// =====================
+function detectSMC(highs, lows, closes) {
+
+  const overlay = document.getElementById("overlay");
+  overlay.innerHTML = "";
+
+  let swings = [];
+  let trend = "NEUTRAL";
+
+  for (let i = 3; i < highs.length - 3; i++) {
+
+    const isHigh =
+      highs[i] > highs[i - 1] &&
+      highs[i] > highs[i - 2] &&
+      highs[i] > highs[i + 1] &&
+      highs[i] > highs[i + 2];
+
+    const isLow =
+      lows[i] < lows[i - 1] &&
+      lows[i] < lows[i - 2] &&
+      lows[i] < lows[i + 1] &&
+      lows[i] < lows[i + 2];
+
+    if (isHigh) swings.push({ type: "HIGH", price: highs[i] });
+    if (isLow) swings.push({ type: "LOW", price: lows[i] });
+  }
+
+  for (let i = 1; i < swings.length; i++) {
+    const prev = swings[i - 1];
+    const curr = swings[i];
+
+    if (prev.type === "LOW" && curr.type === "HIGH") {
+      if (curr.price > prev.price) trend = "UP";
+    }
+
+    if (prev.type === "HIGH" && curr.type === "LOW") {
+      if (curr.price < prev.price) trend = "DOWN";
+    }
+  }
+
+  const lastClose = closes[closes.length - 1];
+
+  const lastHigh = [...swings].reverse().find(s => s.type === "HIGH");
+  const lastLow = [...swings].reverse().find(s => s.type === "LOW");
+
+  let signal = "WAIT";
+
+  let bos = false;
+  let choch = false;
+
+  let max = Math.max(...highs);
+  let min = Math.min(...lows);
+  const toPercent = p => 100 - ((p - min) / (max - min)) * 100;
+
+  // =====================
+  // LIQUIDITY SWEEP
+  // =====================
+  let sweep = false;
+
+  if (lastHigh && closes[closes.length - 2] < lastHigh.price && lastClose > lastHigh.price) {
+    sweep = true;
+    trend = "UP";
+    drawLabel("LIQUIDITY SWEEP ↑", toPercent(lastHigh.price), "yellow");
+  }
+
+  if (lastLow && closes[closes.length - 2] > lastLow.price && lastClose < lastLow.price) {
+    sweep = true;
+    trend = "DOWN";
+    drawLabel("LIQUIDITY SWEEP ↓", toPercent(lastLow.price), "yellow");
+  }
+
+  // =====================
+  // BOS + CHOCH
+  // =====================
+  if (lastHigh && lastClose > lastHigh.price) {
+    bos = true;
+    drawLabel("BOS ↑", toPercent(lastHigh.price), "cyan");
+  }
+
+  if (lastLow && lastClose < lastLow.price) {
+    bos = true;
+    drawLabel("BOS ↓", toPercent(lastLow.price), "cyan");
+  }
+
+  if (trend === "DOWN" && lastHigh && lastClose > lastHigh.price) {
+    choch = true;
+    drawLabel("CHOCH ↑", toPercent(lastHigh.price), "magenta");
+  }
+
+  if (trend === "UP" && lastLow && lastClose < lastLow.price) {q
+    choch = true;
+    drawLabel("CHOCH ↓", toPercent(lastLow.price), "magenta");
+  }
+
+  // =====================
+  // ORDER BLOCK
+  // =====================
+  let ob = null;
+
+  for (let i = highs.length - 10; i < highs.length - 2; i++) {
+
+    if (closes[i + 2] > highs[i]) {
+      ob = { type: "DEMAND", price: lows[i] };
+    }
+
+    if (closes[i + 2] < lows[i]) {
+      ob = { type: "SUPPLY", price: highs[i] };
+    }
+  }
+
+  // =====================
+  // ENTRY LOGIC (SNIPER)
+  // =====================
+  if (ob && sweep && bos) {
+
+    if (trend === "UP" && ob.type === "DEMAND") {
+      signal = "BUY";
+      drawArrow("BUY", toPercent(ob.price));
+    }
+
+    if (trend === "DOWN" && ob.type === "SUPPLY") {
+      signal = "SELL";
+      drawArrow("SELL", toPercent(ob.price));
+    }
+  }
+
+  if (ob) {
+    drawZone(ob.type === "SUPPLY" ? "supply" : "demand", toPercent(ob.price), 6);
+  }
+
+  if (lastHigh) drawLine(toPercent(lastHigh.price));
+  if (lastLow) drawLine(toPercent(lastLow.price));
+
+  showSignal(signal, lastClose);
+}
+
+// =====================
+// LABELS
+// =====================
+function drawLabel(text, top, color = "#fff") {
+  const el = document.createElement("div");
+  el.innerText = text;
+  el.style.position = "absolute";
+  el.style.left = "10px";
+  el.style.top = top + "%";
+  el.style.color = color;
+  el.style.fontSize = "12px";
+  el.style.fontWeight = "bold";
+  el.style.zIndex = "1000";
+  document.getElementById("overlay").appendChild(el);
+}
+
+// =====================
+// ARROWS
+// =====================
+function drawArrow(type, top) {
+  const el = document.createElement("div");
+  el.innerHTML = type === "BUY" ? "🟢⬆" : "🔴⬇";
+  el.style.position = "absolute";
+  el.style.left = "50%";
+  el.style.transform = "translateX(-50%)";
+  el.style.top = top + "%";
+  el.style.fontSize = "22px";
+  el.style.zIndex = "1000";
+  document.getElementById("overlay").appendChild(el);
+}
+
+// =====================
+// ZONES (FIX ERROR)
+// =====================
+function drawZone(type, top, height){
+  const el = document.createElement("div");
+  el.className = "zone " + type;
+  el.style.top = top + "%";
+  el.style.height = height + "%";
+  document.getElementById("overlay").appendChild(el);
+}
+
+// =====================
+// LINES (FIX ERROR)
+// =====================
+function drawLine(top){
+  const el = document.createElement("div");
+  el.className = "line";
+  el.style.top = top + "%";
+  document.getElementById("overlay").appendChild(el);
+}
+
+
+
+function sendNotification(title, message) {
+
+  if (!("Notification" in window)) {
+    console.warn("Notification not supported");
+    return;
+  }
+
+  if (Notification.permission === "granted") {
+    new Notification(title, {
+      body: message,
+      icon: "https://cdn-icons-png.flaticon.com/512/3135/3135715.png"
+    });
+  }
+}
+
+// =====================
+// SIGNAL BOX (FIX ERROR)
+// =====================
+let lastSignalSent = null;
+
+function showSignal(signal, price) {
+
+  let box = document.getElementById("signalBox");
+
+  if (!box) {
+    box = document.createElement("div");
+    box.id = "signalBox";
+    box.style.position = "absolute";
+    box.style.top = "20px";
+    box.style.left = "20px";
+    box.style.padding = "12px 18px";
+    box.style.background = "#111";
+    box.style.borderRadius = "8px";
+    box.style.fontWeight = "bold";
+    box.style.zIndex = "999";
+    document.body.appendChild(box);
+  }
+
+  if (signal === "BUY") {
+    box.innerHTML = `BUY 🚀<br>TP: ${(price + 0.0020).toFixed(5)}`;
+    box.style.color = "lime";
+
+    if (lastSignalSent !== "BUY") {
+      sendNotification("BUY SIGNAL 🚀", "EURUSD Buy Setup Ready");
+      lastSignalSent = "BUY";
+    }
+  }
+
+  else if (signal === "SELL") {
+    box.innerHTML = `SELL 🔻<br>TP: ${(price - 0.0020).toFixed(5)}`;
+    box.style.color = "red";
+
+    if (lastSignalSent !== "SELL") {
+      sendNotification("SELL SIGNAL 🔻", "EURUSD Sell Setup Ready");
+      lastSignalSent = "SELL";
+    }
+  }
+
+  else {
+    box.innerHTML = "WAIT...";
+    box.style.color = "white";
+  }
+}
+</script>  
+
+</body>  
+  </html>
