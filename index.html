@@ -57,6 +57,9 @@ html, body{
 </div>  
   
 <script>  
+    
+    let marketTrend = "NEUTRAL";
+    
     // =====================
 // NOTIFICATION PERMISSION
 // =====================
@@ -187,6 +190,30 @@ function detectSMC(highs, lows, closes) {
   let min = Math.min(...lows);
   const toPercent = p => 100 - ((p - min) / (max - min)) * 100;
 
+
+
+function drawTrendChange(type, top) {
+  const el = document.createElement("div");
+
+  if (type === "BUY") {
+    el.innerHTML = "🟢⬆ TREND CHANGE";
+    el.style.color = "lime";
+  } else {
+    el.innerHTML = "🔴⬇ TREND CHANGE";
+    el.style.color = "red";
+  }
+
+  el.style.position = "absolute";
+  el.style.left = "50%";
+  el.style.transform = "translateX(-50%)";
+  el.style.top = top + "%";
+  el.style.fontSize = "16px";
+  el.style.fontWeight = "bold";
+  el.style.zIndex = "2000";
+
+  document.getElementById("overlay").appendChild(el);
+}
+
   // =====================
   // LIQUIDITY SWEEP
   // =====================
@@ -217,15 +244,31 @@ function detectSMC(highs, lows, closes) {
     drawLabel("BOS ↓", toPercent(lastLow.price), "cyan");
   }
 
-  if (trend === "DOWN" && lastHigh && lastClose > lastHigh.price) {
-    choch = true;
-    drawLabel("CHOCH ↑", toPercent(lastHigh.price), "magenta");
-  }
+  // =====================
+// CHOCH + TREND CHANGE DETECTOR
+// =====================
 
-  if (trend === "UP" && lastLow && lastClose < lastLow.price) {q
-    choch = true;
-    drawLabel("CHOCH ↓", toPercent(lastLow.price), "magenta");
+if (trend === "DOWN" && lastHigh && lastClose > lastHigh.price) {
+  choch = true;
+  drawLabel("CHOCH ↑", toPercent(lastHigh.price), "magenta");
+
+  // 🔥 Trend change to UP
+  if (marketTrend !== "UP") {
+    marketTrend = "UP";
+    drawTrendChange("BUY", toPercent(lastHigh.price));
   }
+}
+
+if (trend === "UP" && lastLow && lastClose < lastLow.price) {
+  choch = true;
+  drawLabel("CHOCH ↓", toPercent(lastLow.price), "magenta");
+
+  // 🔥 Trend change to DOWN
+  if (marketTrend !== "DOWN") {
+    marketTrend = "DOWN";
+    drawTrendChange("SELL", toPercent(lastLow.price));
+  }
+}
 
   // =====================
   // ORDER BLOCK
@@ -389,4 +432,4 @@ function showSignal(signal, price) {
 </script>  
 
 </body>  
-  </html>
+</html>
