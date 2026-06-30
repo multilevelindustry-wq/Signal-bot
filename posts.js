@@ -752,7 +752,7 @@ title: "Chapter 2: The Machine At The Pharmacy Told A Different Story",
 
   image: "https://www.image2url.com/r2/default/images/1781154681093-da3b869a-b8a8-4023-b5ec-8250f4011d9b.jpg",
 
-  excerpt: "Beyond the edges of ordinary maps, where ancient forests whispered secrets older than mankind and rivers carried memories of forgotten kings, there existed a kingdom that had vanished from the world’s knowledge, The kingdom of Aurelith For centuries, songs had been sung about its golden towers, its crystal lakes, and its royal bloodline that was said to carry the blessing of the stars But no traveler had ever found its gates No historian had ever uncovered its ruins. No warrior had ever returned from the mountains where the kingdom was believed to have disappeared Some said Aurelith was destroyed Others believed it was hidden.",
+  excerpt: "Beyond the edges of ordinary maps, where ancient forests whispered secrets older than mankind and rivers carried memories of forgotten kings, there existed a kingdom that had vanished from the world’s knowledge, The kingdom of Aurelith For centuries, songs had been sung about its golden towers, its crystal lakes, and its royal bloodline that was said...",
 
   content: `
   
