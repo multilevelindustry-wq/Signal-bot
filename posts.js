@@ -296,15 +296,23 @@ The pharmacist looked concerned.
 
 }, 
 
-   {
-    slug: "best-food-for-healthy-kidney",
-       
-series: "The Machine At The Pharmacy Told A Different Story",
+  {
+slug: "the-machine-at-the-pharmacy-told-a-different-story-chapter-2",
+
+  series: "The Machine At The Pharmacy Told A Different Story",
+
+url:"machine-at-the-pharmacy-chapter-2.html",
+
+  chapter: 2,
+
+title: "Chapter 2: The Machine At The Pharmacy Told A Different Story",
+
+  image: "https://www.image2url.com/r2/default/images/1781154681093-da3b869a-b8a8-4023-b5ec-8250f4011d9b.jpg",
+
+  excerpt: "The Machine At The Pharmacy Told A Different Story chapter 2 - by Dr Evelyn",
+
+  content: `
   
-    title: "My Husband Shadow Lives Upstairs",
-    image: "file_000000007e28720a9295faef6aaa2a56.png",
-    excerpt: "Chapter One ",
-    content: `
       <p>Kidney health is important for removing waste and balancing fluids.</p>
      <div class="affiliate-box">
     <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
@@ -319,11 +327,22 @@ series: "The Machine At The Pharmacy Told A Different Story",
   },
 
   {
-    slug: "best-food-for-healthy-kidney",
-    title: "My Husband Shadow Lives Upstairs",
-    image: "file_000000007e28720a9295faef6aaa2a56.png",
-    excerpt: "Chapter One ",
-    content: `
+slug: "the-machine-at-the-pharmacy-told-a-different-story-chapter-2",
+
+  series: "The Machine At The Pharmacy Told A Different Story",
+
+url:"machine-at-the-pharmacy-chapter-2.html",
+
+  chapter: 2,
+
+title: "Chapter 2: The Machine At The Pharmacy Told A Different Story",
+
+  image: "https://www.image2url.com/r2/default/images/1781154681093-da3b869a-b8a8-4023-b5ec-8250f4011d9b.jpg",
+
+  excerpt: "The Machine At The Pharmacy Told A Different Story chapter 2 - by Dr Evelyn",
+
+  content: `
+  
       <p>Kidney health is important for removing waste and balancing fluids.</p>
      <div class="affiliate-box">
     <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
@@ -338,11 +357,22 @@ series: "The Machine At The Pharmacy Told A Different Story",
   },
 
   {
-    slug: "Understanding-Diabetes-Symptoms",
-    title: "I Sold My Heart For Seven Days ",
-    image: "https://images.unsplash.com/photo-1579154204601-01588f351e67?q=80&w=1200&auto=format&fit=crop",
-    excerpt: "Chapter One ",
-    content: `
+slug: "the-machine-at-the-pharmacy-told-a-different-story-chapter-2",
+
+  series: "The Machine At The Pharmacy Told A Different Story",
+
+url:"machine-at-the-pharmacy-chapter-2.html",
+
+  chapter: 2,
+
+title: "Chapter 2: The Machine At The Pharmacy Told A Different Story",
+
+  image: "https://www.image2url.com/r2/default/images/1781154681093-da3b869a-b8a8-4023-b5ec-8250f4011d9b.jpg",
+
+  excerpt: "The Machine At The Pharmacy Told A Different Story chapter 2 - by Dr Evelyn",
+
+  content: `
+  
       <p>Diabetes is a chromebook .</p>
       <div class="affiliate-box">
     <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
@@ -357,11 +387,22 @@ series: "The Machine At The Pharmacy Told A Different Story",
   },
 
   {
-    slug: "Mental-Health-and-Stress",
-    title: "The Night Heaven Lost An Angel ",
-    image: "https://images.unsplash.com/photo-1493836512294-502baa1986e2?q=80&w=1200&auto=format&fit=crop",
-    excerpt: "Chapter One ",
-    content: `
+slug: "the-machine-at-the-pharmacy-told-a-different-story-chapter-2",
+
+  series: "The Machine At The Pharmacy Told A Different Story",
+
+url:"machine-at-the-pharmacy-chapter-2.html",
+
+  chapter: 2,
+
+title: "Chapter 2: The Machine At The Pharmacy Told A Different Story",
+
+  image: "https://www.image2url.com/r2/default/images/1781154681093-da3b869a-b8a8-4023-b5ec-8250f4011d9b.jpg",
+
+  excerpt: "The Machine At The Pharmacy Told A Different Story chapter 2 - by Dr Evelyn",
+
+  content: `
+  
       <p>Mental health affects overall wellbeing.</p>
       <div class="affiliate-box">
     <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
@@ -376,11 +417,22 @@ series: "The Machine At The Pharmacy Told A Different Story",
   },
 
   {
-    slug: "How-to-Improve-Your-Immune",
-    title: "My Mother Married My Enemy ",
-    image: "https://images.unsplash.com/photo-1514996937319-344454492b37?q=80&w=1200&auto=format&fit=crop",
-    excerpt: "Chapter One ",
-    content: `
+slug: "the-machine-at-the-pharmacy-told-a-different-story-chapter-2",
+
+  series: "The Machine At The Pharmacy Told A Different Story",
+
+url:"machine-at-the-pharmacy-chapter-2.html",
+
+  chapter: 2,
+
+title: "Chapter 2: The Machine At The Pharmacy Told A Different Story",
+
+  image: "https://www.image2url.com/r2/default/images/1781154681093-da3b869a-b8a8-4023-b5ec-8250f4011d9b.jpg",
+
+  excerpt: "The Machine At The Pharmacy Told A Different Story chapter 2 - by Dr Evelyn",
+
+  content: `
+  
       <p>Exercise, hydration and balanced nutrition help immunity.</p>
       <div class="affiliate-box">
     <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
@@ -395,11 +447,22 @@ series: "The Machine At The Pharmacy Told A Different Story",
   },
 
   {
-    slug: "The-Truth-About-Weight-Loss",
-    title: "The Forgotten Son Of Atlantis",
-    image: "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?q=80&w=1200&auto=format&fit=crop",
-    excerpt: "Chapter One ",
-    content: `
+slug: "the-machine-at-the-pharmacy-told-a-different-story-chapter-2",
+
+  series: "The Machine At The Pharmacy Told A Different Story",
+
+url:"machine-at-the-pharmacy-chapter-2.html",
+
+  chapter: 2,
+
+title: "Chapter 2: The Machine At The Pharmacy Told A Different Story",
+
+  image: "https://www.image2url.com/r2/default/images/1781154681093-da3b869a-b8a8-4023-b5ec-8250f4011d9b.jpg",
+
+  excerpt: "The Machine At The Pharmacy Told A Different Story chapter 2 - by Dr Evelyn",
+
+  content: `
+  
       <p>Crash dieting may damage metabolism.</p>
       <div class="affiliate-box">
     <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
@@ -414,11 +477,22 @@ series: "The Machine At The Pharmacy Told A Different Story",
   },
 
   {
-    slug: "Healthy-Pregnancy-Guide",
-    title: "The CEO Who Hides Dead Bodies ",
-    image: "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?q=80&w=1200&auto=format&fit=crop",
-    excerpt: "Chapter One ",
-    content: `
+slug: "the-machine-at-the-pharmacy-told-a-different-story-chapter-2",
+
+  series: "The Machine At The Pharmacy Told A Different Story",
+
+url:"machine-at-the-pharmacy-chapter-2.html",
+
+  chapter: 2,
+
+title: "Chapter 2: The Machine At The Pharmacy Told A Different Story",
+
+  image: "https://www.image2url.com/r2/default/images/1781154681093-da3b869a-b8a8-4023-b5ec-8250f4011d9b.jpg",
+
+  excerpt: "The Machine At The Pharmacy Told A Different Story chapter 2 - by Dr Evelyn",
+
+  content: `
+  
       <p>Prenatal care is essential during pregnancy.</p>
       <div class="affiliate-box">
     <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
@@ -432,7 +506,7 @@ series: "The Machine At The Pharmacy Told A Different Story",
     `
   },
 
-  {
+ {
     slug: "Natural-Ways-to-Sleep-Better",
     title: "The Secret Baby Of Blackwood Castle",
     image: "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?q=80&w=1200&auto=format&fit=crop",
