@@ -3082,7 +3082,17 @@ And if you listen carefully, you may hear the words:
 
 "I searched for you across time."
 
-"And I waited for you beyond eternity."
+</p>
+      
+       <div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/2930/landingpage_l.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product Just For You:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Healthy Home Demo System, Spanish</a>
+    </div>
+  </div>
+      <p>"And I waited for you beyond eternity."
 
 Because some loves are not destroyed by distance.
 
@@ -3099,18 +3109,7 @@ The lost princess.
 And the heart that defeated darkness.
 
 The End
-
 </p>
-      
-       <div class="affiliate-box">
-    <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
-
-    <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://example.com" target="_blank">Organic Green Tea</a>
-    </div>
-  </div>
-      <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
     `
   }
   
