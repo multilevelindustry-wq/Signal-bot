@@ -106,20 +106,16 @@ xml += `
 `;
 
 
-
-
 // POSTS
 
-
 posts.forEach(post=>{
-
 
 
 xml += `
 
 <url>
 
-<loc>${DOMAIN}/${post.slug}.html</loc>
+<loc>${DOMAIN}/${post.url}</loc>
 
 <changefreq>weekly</changefreq>
 
@@ -128,8 +124,6 @@ xml += `
 </url>
 
 `;
-
-
 
 });
 
