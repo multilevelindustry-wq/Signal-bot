@@ -686,11 +686,11 @@ title: "Chapter 2: The Machine At The Pharmacy Told A Different Story",
     {
     slug: "Immortal-Heart-of-Clauneck",
   
-  url:"Immortal-Heart-of-Clauneck.html",
+  url:"Immortal-Heart-of-Claunek.html",
 
   title: "Clauneck’s First Whisper Beneath the Ancient Moon",
 
-  image: "https://www.image2url.com/r2/default/images/1782869919508-030ac673-10fb-4e7d-becd-990b8c986834.jpg",
+  image: "https://images.unsplash.com/photo-1490645935967-10de6ba17061?q=80&w=1200&auto=format&fit=crop",
 
   excerpt: "Long before kingdoms raised their golden towers, before men carved their victories into stone and called themselves masters of the world...",
 
@@ -715,11 +715,11 @@ title: "Chapter 2: The Machine At The Pharmacy Told A Different Story",
     {
     slug: "Immortal-Heart-of-Clauneck",
   
-  url:"Immortal-Heart-of-Clauneck.html",
+  url:"Immortal-Heart-of-Cluneck.html",
 
   title: "Clauneck’s First Whisper Beneath the Ancient Moon",
 
-  image: "https://www.image2url.com/r2/default/images/1782869919508-030ac673-10fb-4e7d-becd-990b8c986834.jpg",
+  image: "https://images.unsplash.com/photo-1490645935967-10de6ba17061?q=80&w=1200&auto=format&fit=crop",
 
   excerpt: "Long before kingdoms raised their golden towers, before men carved their victories into stone and called themselves masters of the world...",
 
