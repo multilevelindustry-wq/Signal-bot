@@ -752,7 +752,7 @@ title: "Chapter 2: The Machine At The Pharmacy Told A Different Story",
 
   image: "https://www.image2url.com/r2/default/images/1782869919508-030ac673-10fb-4e7d-becd-990b8c986834.jpg",
 
-  excerpt: "Beyond the edges of ordinary maps, where ancient forests whispered secrets older than mankind and rivers carried memories of forgotten kings, there existed a kingdom that had vanished from the world’s knowledge, The kingdom of Aurelith For centuries, songs had been sung about its golden towers, its crystal lakes, and its royal bloodline that was said...",
+  excerpt: "Beyond the edges of ordinary maps, where ancient forests...",
 
   content: `
   
