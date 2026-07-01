@@ -684,17 +684,11 @@ title: "Chapter 2: The Machine At The Pharmacy Told A Different Story",
   
   
     {
-    slug: "Immortal-Heart-of-Clauneck",
-  
-  url:"Immortal-Heart-of-Claunek.html",
-
-  title: "Clauneck’s First Whisper Beneath the Ancient Moon",
-
-  image: "https://images.unsplash.com/photo-1490645935967-10de6ba17061?q=80&w=1200&auto=format&fit=crop",
-
-  excerpt: "Long before kingdoms raised their golden towers, before men carved their victories into stone and called themselves masters of the world...",
-
-  content: `
+    slug: "best-food-for-healthy-kidney",
+    title: "My Roommate is The Devil's Daughter ",
+    image: "https://images.unsplash.com/photo-1490645935967-10de6ba17061?q=80&w=1200&auto=format&fit=crop",
+    excerpt: "Chapter One",
+    content: `
   
       <p>Kidney health is important for removing waste and balancing fluids.</p>
    
@@ -713,17 +707,11 @@ title: "Chapter 2: The Machine At The Pharmacy Told A Different Story",
   
   
     {
-    slug: "Immortal-Heart-of-Clauneck",
-  
-  url:"Immortal-Heart-of-Cluneck.html",
-
-  title: "Clauneck’s First Whisper Beneath the Ancient Moon",
-
-  image: "https://images.unsplash.com/photo-1490645935967-10de6ba17061?q=80&w=1200&auto=format&fit=crop",
-
-  excerpt: "Long before kingdoms raised their golden towers, before men carved their victories into stone and called themselves masters of the world...",
-
-  content: `
+    slug: "best-food-for-healthy-kidney",
+    title: "My Roommate is The Devil's Daughter ",
+    image: "https://images.unsplash.com/photo-1490645935967-10de6ba17061?q=80&w=1200&auto=format&fit=crop",
+    excerpt: "Chapter One",
+    content: `
   
       <p>Kidney health is important for removing waste and balancing fluids.</p>
 <div class="affiliate-box">
