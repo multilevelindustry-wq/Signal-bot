@@ -748,7 +748,7 @@ title: "Chapter 2: The Machine At The Pharmacy Told A Different Story",
 
   title: "Clauneck’s First Whisper Beneath the Ancient Moon",
 
-  image: "https://www.image2url.com/r2/default/images/1782924754206-a8a3ead6-e8ed-4003-9ecb-5cbc4364a066.jpg",
+  image: "https://www.image2url.com/r2/default/images/1782936347166-79a7814d-fd64-4cb0-8676-16c6ade01659.jpg",
 
   excerpt: "Long before kingdoms raised their golden towers, before men carved their victories into stone and called themselves masters of the world...",
 
