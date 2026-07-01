@@ -269,10 +269,12 @@ posts.find(
 p=>p.url===currentPage
 );
 
+if(post){
 
 
 
-
+document.title =
+post.title;
 
   
 
