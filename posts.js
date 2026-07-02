@@ -730,22 +730,23 @@ title: "Chapter 2: The Machine At The Pharmacy Told A Different Story",
   
     
     {
-  slug: "Clauneck’s-First-Whisper",
+  slug: "clauneck-first-whisper.html",
   
-  url:"Clauneck’s-First-Whisper.html",
+  url:"clauneck-first-whisper.html",
 
   title: "Clauneck’s First Whisper Beneath the Ancient Moon",
 
   image: "https://www.image2url.com/r2/default/images/1782936347166-79a7814d-fd64-4cb0-8676-16c6ade01659.jpg",
 
-  excerpt: "Long before kingdoms raised their golden towers, before men carved their victories into stone and called themselves masters of the world...",
+  excerpt: "Long before kingdoms raised their golden towers, before men carved their victories into stone and called themselves masters of the world, there was a valley hidden between mountains that never appeared on any map...",
 
   content: `
 
   <h1>Part 1 — The Night That Remembered His Name
   </h1>
-      <p>
-      
+  
+      <p>     
+Long before kingdoms raised their golden towers, before men carved their victories into stone and called themselves masters of the world, there was a valley hidden between mountains that never appeared on any map.
 
 The elders called it the Valley of Forgotten Echoes.
 
