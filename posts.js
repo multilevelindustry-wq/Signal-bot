@@ -664,9 +664,9 @@ title: "Chapter 2: The Machine At The Pharmacy Told A Different Story",
   
   
     {
-    slug: " ",
+    slug: "the-last-kingdom-that-remembered-clauneck ",
   
-  url:" .html",
+  url:"the-last-kingdom-that-remembered-clauneck.html",
 
   title: "The Last Kingdom That Remembered Clauneck",
 
@@ -691,9 +691,9 @@ title: "Chapter 2: The Machine At The Pharmacy Told A Different Story",
   
   
     {
-    slug: " ",
+    slug: "Clauneck-the-guardian-of-the-hidden-realm ",
   
-  url:" .html",
+  url:"Clauneck-the-guardian-of-the-hidden-realm.html",
 
   title: "Clauneck: The Guardian of the Hidden Realm",
 
@@ -721,9 +721,9 @@ title: "Chapter 2: The Machine At The Pharmacy Told A Different Story",
   
   
     {
-    slug: "clauneck-the-shadow-before-time",
+    slug: "Clauneck-the-shadow-before-time",
   
-  url:"clauneck-the-shadow-before-time.html",
+  url:"Clauneck-the-shadow-before-time.html",
 
   title: "The Forgotten Chronicle of Clauneck: The Shadow Before Time",
 
