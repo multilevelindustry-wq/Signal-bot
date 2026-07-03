@@ -664,11 +664,18 @@ title: "Chapter 2: The Machine At The Pharmacy Told A Different Story",
   
   
     {
-    slug: "best-food-for-healthy-kidney",
-    title: "Seven Nights With My Enemy ",
-    image: "https://images.unsplash.com/photo-1490645935967-10de6ba17061?q=80&w=1200&auto=format&fit=crop",
-    excerpt: "Chapter One ",
-    content: `
+    slug: " ",
+  
+  url:" .html",
+
+  title: "The Last Kingdom That Remembered Clauneck",
+
+  image: "https://www.image2url.com/r2/default/images/1783097285227-4d2f5f09-090a-4ab1-bc79-b72e00566400.jpg",
+
+  excerpt: "Long before the first empire carved its laws into stone...",
+
+  content: `
+  
       <p>Kidney health is important for removing waste and balancing fluids.</p>
      <div class="affiliate-box">
     <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
@@ -684,11 +691,18 @@ title: "Chapter 2: The Machine At The Pharmacy Told A Different Story",
   
   
     {
-    slug: "best-food-for-healthy-kidney",
-    title: "My Roommate is The Devil's Daughter ",
-    image: "https://images.unsplash.com/photo-1490645935967-10de6ba17061?q=80&w=1200&auto=format&fit=crop",
-    excerpt: "Chapter One",
-    content: `
+    slug: " ",
+  
+  url:" .html",
+
+  title: "Clauneck: The Guardian of the Hidden Realm",
+
+  image: "https://www.image2url.com/r2/default/images/1783097350013-6971651e-d50a-48cd-877e-1ad1d8ec203f.jpg",
+
+  excerpt: "Long before kingdoms carved their names into stone and before mankind learned to fear...",
+
+  content: `
+  
   
       <p>Kidney health is important for removing waste and balancing fluids.</p>
    
@@ -707,11 +721,18 @@ title: "Chapter 2: The Machine At The Pharmacy Told A Different Story",
   
   
     {
-    slug: "best-food-for-healthy-kidney",
-    title: "My Roommate is The Devil's Daughter ",
-    image: "https://images.unsplash.com/photo-1490645935967-10de6ba17061?q=80&w=1200&auto=format&fit=crop",
-    excerpt: "Chapter One",
-    content: `
+    slug: "clauneck-the-shadow-before-time",
+  
+  url:"clauneck-the-shadow-before-time.html",
+
+  title: "The Forgotten Chronicle of Clauneck: The Shadow Before Time",
+
+  image: "https://www.image2url.com/r2/default/images/1783097459830-8a62e8ad-f0cf-497e-865e-cbaf1492362b.jpg",
+
+  excerpt: "Long before the first sun burned across the heavens..Before stars carried names...",
+
+  content: `
+  
   
       <p>Kidney health is important for removing waste and balancing fluids.</p>
 <div class="affiliate-box">
