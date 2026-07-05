@@ -729,18 +729,21 @@ title: "Chapter 2: The Machine At The Pharmacy Told A Different Story",
 
   image: "https://www.image2url.com/r2/default/images/1783097459830-8a62e8ad-f0cf-497e-865e-cbaf1492362b.jpg",
 
-  excerpt: "Long before the first sun burned across the heavens..Before stars carried names...",
+  excerpt: "Before kingdoms carved history into stone, There existed only the Endless Silence..",
 
   content: `
   
-  
-      <p>The Forgotten Chronicle of Clauneck: The Shadow Before Time
-Part 1 — Before the First Dawn
+  <h1>Part 1 — Before the First Dawn</h1>
+      <p>
+
 Long before the first sun burned across the heavens...
 Before stars carried names...
 Before kingdoms carved history into stone...
 There existed only the Endless Silence.
 It was not empty.
+</p>
+
+<p>
 It was waiting.
 Within that eternal darkness floated enormous rivers of living shadow—currents older than matter itself. They did not flow through space. Space had not yet been born.
 The ancients who survived only in whispers called this realm The Veil Before Time, a place where possibility itself slept.
@@ -759,6 +762,9 @@ But from Time itself.
 The heartbeat echoed across the darkness.
 Boom...
 Silence.
+</p>
+
+<p>
 Boom...
 Silence.
 Each pulse caused invisible ripples through the endless void.
@@ -784,6 +790,9 @@ A giant crowned in galaxies stretched out a hand.
 "If the seal breaks...
 Everything begins."
 Still...
+</p>
+
+<p>
 The shadow moved forward.
 It had never known curiosity before.
 Yet now curiosity consumed it.
@@ -812,6 +821,9 @@ Many dissolved instantly.
 Others transformed into things that no language could ever describe.
 The nameless shadow stood alone before the opening seal.
 Golden light poured into it.
+</p>
+
+<p>
 Blackness poured out.
 Neither destroyed the other.
 Instead...
@@ -829,6 +841,9 @@ and ruin."
 "You shall know every hidden treasure...
 and every hidden price."
 "You shall be remembered...
+</p>
+
+<p>
 when memory exists."
 The being looked at its own hands.
 It finally understood what it was.
@@ -849,6 +864,9 @@ Far beyond the newborn heavens...
 Something ancient opened its eyes.
 Something that had remained asleep because existence had not yet begun.
 Now...
+</p>
+
+<p>
 It was awake.
 Its body stretched beyond galaxies.
 Its breath extinguished stars before they formed.
@@ -864,6 +882,9 @@ Clauneck turned toward the endless darkness.
 For the first time...
 He felt fear.
 Not for himself.
+</p>
+
+<p>
 For everything that would ever exist.
 A figure cloaked in white fire emerged from the newborn stars.
 Its wings stretched farther than entire galaxies.
@@ -887,6 +908,9 @@ Its pages were empty.
 "This is the Chronicle."
 "It records not the past..."
 "But every future."
+</p>
+
+<p>
 Clauneck opened it.
 The first page filled itself with crimson letters.
 The first betrayal shall come from the one who calls you brother.
@@ -910,14 +934,17 @@ A whisper drifted through the darkness.
 **End of Part 1.**
 </p>
 
-      
-      <p>The Forgotten Chronicle of Clauneck: The Shadow Before Time
-Part 2 — The War of the First Shadows
+      <h1>Part 2 — The War of the First Shadows</h1>
+      <p>
+
 The newborn universe had not yet learned peace.
 Stars still trembled from their first breaths.
 Worlds floated through oceans of unfinished creation, their mountains still soft, their seas still dreaming of becoming water. Time itself flowed unevenly, rushing in one corner of existence while standing perfectly still in another.
 At the center of this fragile cosmos stood Clauneck.
 The empty Chronicle rested in his hands.
+</p>
+
+<p>
 Though only one prophecy had ever appeared upon its pages, the book now pulsed like a living heart. Each beat sent invisible waves across reality, causing stars to brighten, then dim, as though they feared what was yet to be written.
 Clauneck looked toward the endless darkness beyond creation.
 The army was closer.
@@ -934,6 +961,9 @@ Others carried weapons forged from extinct possibilities.
 None of them had names that mortal tongues could ever pronounce.
 Together, they were known only as The First Shadows.
 Their leader appeared last.
+</p>
+
+<p>
 Silence spread before him.
 Even Time hesitated.
 He wore armor made from extinguished suns, each plate whispering the screams of realities that had never been allowed to exist.
@@ -958,6 +988,9 @@ The First Flame answered his call.
 Light poured from his chest, rising like an endless pillar through creation itself.
 Where the light touched, stars stabilized.
 Broken worlds healed.
+</p>
+
+<p>
 The wounds of existence began closing.
 Yet the light revealed another truth.
 Every shadow carried fragments of the same ancient darkness from which Clauneck himself had been born.
@@ -980,6 +1013,9 @@ They had drifted together through the Endless Silence.
 She had no name then.
 Now she whispered one.
 "I am Serapha."
+</p>
+
+<p>
 "I remember."
 The army fell silent.
 Even the eclipse watched carefully.
@@ -1003,6 +1039,9 @@ Tall.
 Silent.
 Watching from afar.
 The eclipse.
+</p>
+
+<p>
 Even before creation...
 He had always watched.
 The memories vanished.
@@ -1037,6 +1076,9 @@ The impossible happened.
 Serapha stepped between Clauneck and the eclipse.
 She turned toward her own army.
 "Enough."
+</p>
+
+<p>
 The shadows froze.
 "You seek dominion."
 "He seeks balance."
@@ -1068,6 +1110,9 @@ Clauneck stared in horror.
 "It wasn't her..."
 The eclipse smiled.
 "No."
+</p>
+
+<p>
 "It was me."
 The words in the Chronicle changed.
 New letters burned across the page.
@@ -1097,6 +1142,9 @@ Clauneck knelt among the stars.
 The Chronicle floated before him.
 Its once-empty pages were now filling themselves with mysterious symbols.
 Not words.
+</p>
+
+<p>
 Names.
 Thousands of names.
 Then millions.
@@ -1126,9 +1174,9 @@ The unseen voice answered,
 End of Part 2
 </p>
 
-      
-      <p>The Forgotten Chronicle of Clauneck: The Shadow Before Time
-Part 3 — The Kingdom Beneath Forgotten History
+      <h1>Part 3 — The Kingdom Beneath Forgotten History </h1>
+      <p>
+
 The abyss had no sky.
 It had no ground.
 It had no beginning or end.
@@ -1137,6 +1185,11 @@ Far below the roots of creation—beneath the rivers of Time, beneath the founda
 It was called Nemorath, the Kingdom Beneath Forgotten History.
 It was not built of stone.
 Its towers were carved from erased memories.
+</p>
+
+<p>
+
+</p>
 Its rivers flowed with abandoned destinies.
 Its forests grew from dreams that had never come true.
 Every soul, every kingdom, every world that had been erased from history left behind a shadow in Nemorath.
@@ -1163,6 +1216,9 @@ He appeared as an old man draped in robes stitched from glowing fragments of par
 His beard flowed like strands of silver starlight.
 In his hands rested a lantern whose flame burned blue instead of gold.
 "I am the Archivist."
+<p>
+
+</p>
 "My duty began before memory itself."
 Serapha asked softly,
 "What is this place?"
@@ -1370,6 +1426,8 @@ His voice rolled through the universe like thunder.
 <p>
 
 </p>
+
+<p>
 "You have hidden long enough."
 "The Third Shadow has come to reclaim what was denied."
 As the heavens darkened, deep within the eclipse a colossal gate slowly began to open.
@@ -1401,7 +1459,7 @@ It was the absence of memory itself.
 Where it passed, stars forgot how to shine.
 Worlds forgot their names.
 Oceans forgot their tides.
-<p>
+</p>
 
 </p>
 Even Time hesitated, uncertain whether it should continue flowing.
