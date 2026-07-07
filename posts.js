@@ -1,181 +1,33 @@
 const posts = [
 
 {
-slug: "the-machine-at-the-pharmacy-told-a-different-story-chapter-1",
-
-series: "The Machine At The Pharmacy Told A Different Story",
+slug: "Clauneck-the-guardian-of-the-hidden-realm ",
   
-  url:"machine-at-the-pharmacy-chapter-1.html",
+  url:"Pomegranate.html",
 
-  chapter: 1,
+  title: "Clauneck: The Guardian of the Hidden Realm",
 
-  title: "Chapter 1: The Machine At The Pharmacy Told A Different Story",
+  image: "https://www.image2url.com/r2/default/images/1783097350013-6971651e-d50a-48cd-877e-1ad1d8ec203f.jpg",
 
-  image: "https://www.image2url.com/r2/default/images/1781154681093-da3b869a-b8a8-4023-b5ec-8250f4011d9b.jpg",
-
-  excerpt: "The Machine At The Pharmacy Told A Different Story chapter 1 - by Dr Evelyn",
+  excerpt: "Long before kingdoms carved their names into stone and before mankind learned to fear...",
 
   content: `
 
 <p>
-The bell above the pharmacy door chimed softly as Michael stepped inside.
-He wasn't sick. At least, that's what he kept telling himself.
-At forty-eight years old, Michael was the kind of man who rarely visited doctors. He worked long hours managing a construction company, drank several cups of coffee every day, and convinced himself that feeling tired was simply part of getting older.
-"Just stress," he would say whenever his wife, Angela, asked about his headaches.
-But lately, the headaches had become more frequent.
-There were other signs too.
+
 </p>
 
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/2930/landingpage_l.jpg" alt="Organic Green Tea">
 
+    <div>
+      <strong>Recommended Product Just For You:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Healthy Home Demo System, Spanish</a>
+    </div>
+  </div>
+  
 <p>
-He woke up exhausted despite sleeping all night. He sometimes felt dizzy when standing up. Small arguments at work seemed to make his heart pound harder than usual. Yet he ignored every warning.
-That Saturday morning, he entered the pharmacy only to buy vitamins.
-While waiting at the counter, he noticed a blood pressure machine sitting in the corner.
-FREE BLOOD PRESSURE CHECK
-A young pharmacist smiled.
-"Have you ever checked your blood pressure recently?"
-Michael shrugged.
-"Not really. I feel fine."
-The pharmacist laughed gently.
-"Many people with high blood pressure feel fine."
-The words barely registered.
-</p>
 
-<p>
-Mostly because Michael was already sitting down in front of the machine.
-He slipped his arm into the cuff and pressed the button.
-The machine hummed quietly.
-The cuff tightened.
-Then tightened even more.
-A few seconds later, numbers appeared on the screen.
-182/112
-Michael stared.
-The pharmacist's smile disappeared.
-"Sir, can I see that?"
-Michael pointed at the screen.
-The pharmacist looked concerned.
-"Have you been diagnosed with high blood pressure before?"
-"No."
-</p>
-
-<p>
-The bell above the pharmacy door chimed softly as Michael stepped inside.
-He wasn't sick. At least, that's what he kept telling himself.
-At forty-eight years old, Michael was the kind of man who rarely visited doctors. He worked long hours managing a construction company, drank several cups of coffee every day, and convinced himself that feeling tired was simply part of getting older.
-"Just stress," he would say whenever his wife, Angela, asked about his headaches.
-But lately, the headaches had become more frequent.
-There were other signs too.
-</p>
-
-<p>
-He woke up exhausted despite sleeping all night. He sometimes felt dizzy when standing up. Small arguments at work seemed to make his heart pound harder than usual. Yet he ignored every warning.
-That Saturday morning, he entered the pharmacy only to buy vitamins.
-While waiting at the counter, he noticed a blood pressure machine sitting in the corner.
-FREE BLOOD PRESSURE CHECK
-A young pharmacist smiled.
-"Have you ever checked your blood pressure recently?"
-Michael shrugged.
-"Not really. I feel fine."
-The pharmacist laughed gently.
-"Many people with high blood pressure feel fine."
-The words barely registered.
-</p>
-
-<p>
-Mostly because Michael was already sitting down in front of the machine.
-He slipped his arm into the cuff and pressed the button.
-The machine hummed quietly.
-The cuff tightened.
-Then tightened even more.
-A few seconds later, numbers appeared on the screen.
-182/112
-Michael stared.
-The pharmacist's smile disappeared.
-"Sir, can I see that?"
-Michael pointed at the screen.
-The pharmacist looked concerned.
-"Have you been diagnosed with high blood pressure before?"
-"No."
-</p>
-
-<p>
-The bell above the pharmacy door chimed softly as Michael stepped inside.
-He wasn't sick. At least, that's what he kept telling himself.
-At forty-eight years old, Michael was the kind of man who rarely visited doctors. He worked long hours managing a construction company, drank several cups of coffee every day, and convinced himself that feeling tired was simply part of getting older.
-"Just stress," he would say whenever his wife, Angela, asked about his headaches.
-But lately, the headaches had become more frequent.
-There were other signs too.
-</p>
-
-<p>
-He woke up exhausted despite sleeping all night. He sometimes felt dizzy when standing up. Small arguments at work seemed to make his heart pound harder than usual. Yet he ignored every warning.
-That Saturday morning, he entered the pharmacy only to buy vitamins.
-While waiting at the counter, he noticed a blood pressure machine sitting in the corner.
-FREE BLOOD PRESSURE CHECK
-A young pharmacist smiled.
-"Have you ever checked your blood pressure recently?"
-Michael shrugged.
-"Not really. I feel fine."
-The pharmacist laughed gently.
-"Many people with high blood pressure feel fine."
-The words barely registered.
-</p>
-
-<p>
-Mostly because Michael was already sitting down in front of the machine.
-He slipped his arm into the cuff and pressed the button.
-The machine hummed quietly.
-The cuff tightened.
-Then tightened even more.
-A few seconds later, numbers appeared on the screen.
-182/112
-Michael stared.
-The pharmacist's smile disappeared.
-"Sir, can I see that?"
-Michael pointed at the screen.
-The pharmacist looked concerned.
-"Have you been diagnosed with high blood pressure before?"
-"No."
-</p>
-
-<p>
-The bell above the pharmacy door chimed softly as Michael stepped inside.
-He wasn't sick. At least, that's what he kept telling himself.
-At forty-eight years old, Michael was the kind of man who rarely visited doctors. He worked long hours managing a construction company, drank several cups of coffee every day, and convinced himself that feeling tired was simply part of getting older.
-"Just stress," he would say whenever his wife, Angela, asked about his headaches.
-But lately, the headaches had become more frequent.
-There were other signs too.
-</p>
-
-<p>
-He woke up exhausted despite sleeping all night. He sometimes felt dizzy when standing up. Small arguments at work seemed to make his heart pound harder than usual. Yet he ignored every warning.
-That Saturday morning, he entered the pharmacy only to buy vitamins.
-While waiting at the counter, he noticed a blood pressure machine sitting in the corner.
-FREE BLOOD PRESSURE CHECK
-A young pharmacist smiled.
-"Have you ever checked your blood pressure recently?"
-Michael shrugged.
-"Not really. I feel fine."
-The pharmacist laughed gently.
-"Many people with high blood pressure feel fine."
-The words barely registered.
-</p>
-
-<p>
-Mostly because Michael was already sitting down in front of the machine.
-He slipped his arm into the cuff and pressed the button.
-The machine hummed quietly.
-The cuff tightened.
-Then tightened even more.
-A few seconds later, numbers appeared on the screen.
-182/112
-Michael stared.
-The pharmacist's smile disappeared.
-"Sir, can I see that?"
-Michael pointed at the screen.
-The pharmacist looked concerned.
-"Have you been diagnosed with high blood pressure before?"
-"No."
 </p>
 
 `
@@ -184,112 +36,764 @@ The pharmacist looked concerned.
 
 
 {
-slug: "the-machine-at-the-pharmacy-told-a-different-story-chapter-2",
+    slug: "Clauneck-the-guardian-of-the-hidden-realm ",
+  
+  url:" Blueberry.html",
 
-  series: "The Machine At The Pharmacy Told A Different Story",
+  title: "Clauneck: The Guardian of the Hidden Realm",
 
-url:"machine-at-the-pharmacy-chapter-2.html",
+  image: "https://www.image2url.com/r2/default/images/1783097350013-6971651e-d50a-48cd-877e-1ad1d8ec203f.jpg",
 
-  chapter: 2,
+  excerpt: "Long before kingdoms carved their names into stone and before mankind learned to fear...",
 
-title: "Chapter 2: The Machine At The Pharmacy Told A Different Story",
+  content: `
+  
+      <p>Kidney health is important for removing waste and balancing fluids.</p>
+    <div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/2930/landingpage_l.jpg" alt="Organic Green Tea">
 
-  image: "https://www.image2url.com/r2/default/images/1781154681093-da3b869a-b8a8-4023-b5ec-8250f4011d9b.jpg",
+    <div>
+      <strong>Recommended Product Just For You:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Healthy Home Demo System, Spanish</a>
+    </div>
+  </div>
+  
+      <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
+    `
+  },
 
-  excerpt: "The Machine At The Pharmacy Told A Different Story chapter 2 - by Dr Evelyn",
+
+{
+    slug: "Clauneck-the-guardian-of-the-hidden-realm ",
+  
+  url:" Raspberry.html",
+
+  title: "Clauneck: The Guardian of the Hidden Realm",
+
+  image: "https://www.image2url.com/r2/default/images/1783097350013-6971651e-d50a-48cd-877e-1ad1d8ec203f.jpg",
+
+  excerpt: "Long before kingdoms carved their names into stone and before mankind learned to fear...",
+
+  content: `
+  
+      <p>Kidney health is important for removing waste and balancing fluids.</p>
+    <div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/2930/landingpage_l.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product Just For You:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Healthy Home Demo System, Spanish</a>
+    </div>
+  </div>
+  
+      <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
+    `
+  },
+
+
+  {
+    slug: "Clauneck-the-guardian-of-the-hidden-realm ",
+  
+  url:" Blackberry.html",
+
+  title: "Clauneck: The Guardian of the Hidden Realm",
+
+  image: "https://www.image2url.com/r2/default/images/1783097350013-6971651e-d50a-48cd-877e-1ad1d8ec203f.jpg",
+
+  excerpt: "Long before kingdoms carved their names into stone and before mankind learned to fear...",
+
+  content: `
+  
+      <p>Kidney health is important for removing waste and balancing fluids.</p>
+    <div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/2930/landingpage_l.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product Just For You:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Healthy Home Demo System, Spanish</a>
+    </div>
+  </div>
+  
+      <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
+    `
+  },
+
+  {
+    slug: "Clauneck-the-guardian-of-the-hidden-realm ",
+  
+  url:" Cranberry.html",
+
+  title: "Clauneck: The Guardian of the Hidden Realm",
+
+  image: "https://www.image2url.com/r2/default/images/1783097350013-6971651e-d50a-48cd-877e-1ad1d8ec203f.jpg",
+
+  excerpt: "Long before kingdoms carved their names into stone and before mankind learned to fear...",
+
+  content: `
+  
+      <p>Kidney health is important for removing waste and balancing fluids.</p>
+    <div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/2930/landingpage_l.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product Just For You:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Healthy Home Demo System, Spanish</a>
+    </div>
+  </div>
+  
+      <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
+    `
+  },
+
+
+  {
+    slug: "Clauneck-the-guardian-of-the-hidden-realm ",
+  
+  url:" Cherry.html",
+
+  title: "Clauneck: The Guardian of the Hidden Realm",
+
+  image: "https://www.image2url.com/r2/default/images/1783097350013-6971651e-d50a-48cd-877e-1ad1d8ec203f.jpg",
+
+  excerpt: "Long before kingdoms carved their names into stone and before mankind learned to fear...",
+
+  content: `
+  
+      <p>Kidney health is important for removing waste and balancing fluids.</p>
+    <div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/2930/landingpage_l.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product Just For You:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Healthy Home Demo System, Spanish</a>
+    </div>
+  </div>
+  
+      <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
+    `
+  },
+
+
+  {
+    slug: "Clauneck-the-guardian-of-the-hidden-realm ",
+  
+  url:" Watermelon.html",
+
+  title: "Clauneck: The Guardian of the Hidden Realm",
+
+  image: "https://www.image2url.com/r2/default/images/1783097350013-6971651e-d50a-48cd-877e-1ad1d8ec203f.jpg",
+
+  excerpt: "Long before kingdoms carved their names into stone and before mankind learned to fear...",
+
+  content: `
+  
+      <p>Kidney health is important for removing waste and balancing fluids.</p>
+    <div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/2930/landingpage_l.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product Just For You:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Healthy Home Demo System, Spanish</a>
+    </div>
+  </div>
+  
+      <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
+    `
+  },
+
+
+  {
+    slug: "Clauneck-the-guardian-of-the-hidden-realm ",
+  
+  url:" Cantaloupe.html",
+
+  title: "Clauneck: The Guardian of the Hidden Realm",
+
+  image: "https://www.image2url.com/r2/default/images/1783097350013-6971651e-d50a-48cd-877e-1ad1d8ec203f.jpg",
+
+  excerpt: "Long before kingdoms carved their names into stone and before mankind learned to fear...",
+
+  content: `
+  
+      <p>Kidney health is important for removing waste and balancing fluids.</p>
+    <div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/2930/landingpage_l.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product Just For You:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Healthy Home Demo System, Spanish</a>
+    </div>
+  </div>
+  
+      <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
+    `
+  },
+
+
+  {
+    slug: "Clauneck-the-guardian-of-the-hidden-realm ",
+  
+  url:" Honeydew-melon.html",
+
+  title: "Clauneck: The Guardian of the Hidden Realm",
+
+  image: "https://www.image2url.com/r2/default/images/1783097350013-6971651e-d50a-48cd-877e-1ad1d8ec203f.jpg",
+
+  excerpt: "Long before kingdoms carved their names into stone and before mankind learned to fear...",
+
+  content: `
+  
+      <p>Kidney health is important for removing waste and balancing fluids.</p>
+    <div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/2930/landingpage_l.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product Just For You:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Healthy Home Demo System, Spanish</a>
+    </div>
+  </div>
+  
+      <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
+    `
+  },
+
+
+  {
+    slug: "Clauneck-the-guardian-of-the-hidden-realm ",
+  
+  url:" Grapes.html",
+
+  title: "Clauneck: The Guardian of the Hidden Realm",
+
+  image: "https://www.image2url.com/r2/default/images/1783097350013-6971651e-d50a-48cd-877e-1ad1d8ec203f.jpg",
+
+  excerpt: "Long before kingdoms carved their names into stone and before mankind learned to fear...",
+
+  content: `
+  
+      <p>Kidney health is important for removing waste and balancing fluids.</p>
+    <div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/2930/landingpage_l.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product Just For You:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Healthy Home Demo System, Spanish</a>
+    </div>
+  </div>
+  
+      <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
+    `
+  },
+
+
+  {
+    slug: "Clauneck-the-guardian-of-the-hidden-realm ",
+  
+  url:" Strawberry.html",
+
+  title: "Clauneck: The Guardian of the Hidden Realm",
+
+  image: "https://www.image2url.com/r2/default/images/1783097350013-6971651e-d50a-48cd-877e-1ad1d8ec203f.jpg",
+
+  excerpt: "Long before kingdoms carved their names into stone and before mankind learned to fear...",
+
+  content: `
+  
+      <p>Kidney health is important for removing waste and balancing fluids.</p>
+    <div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/2930/landingpage_l.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product Just For You:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Healthy Home Demo System, Spanish</a>
+    </div>
+  </div>
+  
+      <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
+    `
+  },
+
+
+
+  {
+    slug: "Clauneck-the-guardian-of-the-hidden-realm ",
+  
+  url:" Apple.html",
+
+  title: "Clauneck: The Guardian of the Hidden Realm",
+
+  image: "https://www.image2url.com/r2/default/images/1783097350013-6971651e-d50a-48cd-877e-1ad1d8ec203f.jpg",
+
+  excerpt: "Long before kingdoms carved their names into stone and before mankind learned to fear...",
+
+  content: `
+  
+      <p>Kidney health is important for removing waste and balancing fluids.</p>
+    <div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/2930/landingpage_l.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product Just For You:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Healthy Home Demo System, Spanish</a>
+    </div>
+  </div>
+  
+      <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
+    `
+  },
+
+
+  {
+    slug: "Clauneck-the-guardian-of-the-hidden-realm ",
+  
+  url:" Papaya.html",
+
+  title: "Clauneck: The Guardian of the Hidden Realm",
+
+  image: "https://www.image2url.com/r2/default/images/1783097350013-6971651e-d50a-48cd-877e-1ad1d8ec203f.jpg",
+
+  excerpt: "Long before kingdoms carved their names into stone and before mankind learned to fear...",
+
+  content: `
+  
+      <p>Kidney health is important for removing waste and balancing fluids.</p>
+    <div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/2930/landingpage_l.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product Just For You:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Healthy Home Demo System, Spanish</a>
+    </div>
+  </div>
+  
+      <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
+    `
+  },
+
+
+
+  {
+    slug: "Clauneck-the-guardian-of-the-hidden-realm ",
+  
+  url:" Pineapple.html",
+
+  title: "Clauneck: The Guardian of the Hidden Realm",
+
+  image: "https://www.image2url.com/r2/default/images/1783097350013-6971651e-d50a-48cd-877e-1ad1d8ec203f.jpg",
+
+  excerpt: "Long before kingdoms carved their names into stone and before mankind learned to fear...",
+
+  content: `
+  
+      <p>Kidney health is important for removing waste and balancing fluids.</p>
+    <div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/2930/landingpage_l.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product Just For You:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Healthy Home Demo System, Spanish</a>
+    </div>
+  </div>
+  
+      <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
+    `
+  },
+
+
+  {
+    slug: "Clauneck-the-guardian-of-the-hidden-realm ",
+  
+  url:" Mango.html",
+
+  title: "Clauneck: The Guardian of the Hidden Realm",
+
+  image: "https://www.image2url.com/r2/default/images/1783097350013-6971651e-d50a-48cd-877e-1ad1d8ec203f.jpg",
+
+  excerpt: "Long before kingdoms carved their names into stone and before mankind learned to fear...",
+
+  content: `
+  
+      <p>Kidney health is important for removing waste and balancing fluids.</p>
+    <div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/2930/landingpage_l.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product Just For You:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Healthy Home Demo System, Spanish</a>
+    </div>
+  </div>
+  
+      <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
+    `
+  },
+
+
+
+  {
+    slug: "Clauneck-the-guardian-of-the-hidden-realm ",
+  
+  url:" Orange.html",
+
+  title: "Clauneck: The Guardian of the Hidden Realm",
+
+  image: "https://www.image2url.com/r2/default/images/1783097350013-6971651e-d50a-48cd-877e-1ad1d8ec203f.jpg",
+
+  excerpt: "Long before kingdoms carved their names into stone and before mankind learned to fear...",
+
+  content: `
+  
+      <p>Kidney health is important for removing waste and balancing fluids.</p>
+    <div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/2930/landingpage_l.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product Just For You:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Healthy Home Demo System, Spanish</a>
+    </div>
+  </div>
+  
+      <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
+    `
+  },
+
+
+
+  {
+    slug: "Clauneck-the-guardian-of-the-hidden-realm ",
+  
+  url:" Banana.html",
+
+  title: "Clauneck: The Guardian of the Hidden Realm",
+
+  image: "https://www.image2url.com/r2/default/images/1783097350013-6971651e-d50a-48cd-877e-1ad1d8ec203f.jpg",
+
+  excerpt: "Long before kingdoms carved their names into stone and before mankind learned to fear...",
+
+  content: `
+  
+      <p>Kidney health is important for removing waste and balancing fluids.</p>
+    <div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/2930/landingpage_l.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product Just For You:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Healthy Home Demo System, Spanish</a>
+    </div>
+  </div>
+  
+      <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
+    `
+  },
+
+
+  {
+    slug: "Clauneck-the-guardian-of-the-hidden-realm ",
+  
+  url:" Star-fruit.html",
+
+  title: "Clauneck: The Guardian of the Hidden Realm",
+
+  image: "https://www.image2url.com/r2/default/images/1783097350013-6971651e-d50a-48cd-877e-1ad1d8ec203f.jpg",
+
+  excerpt: "Long before kingdoms carved their names into stone and before mankind learned to fear...",
+
+  content: `
+  
+      <p>Kidney health is important for removing waste and balancing fluids.</p>
+    <div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/2930/landingpage_l.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product Just For You:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Healthy Home Demo System, Spanish</a>
+    </div>
+  </div>
+  
+      <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
+    `
+  },
+
+
+  {
+    slug: "Clauneck-the-guardian-of-the-hidden-realm ",
+  
+  url:"Coconut.html",
+
+  title: "Clauneck: The Guardian of the Hidden Realm",
+
+  image: "https://www.image2url.com/r2/default/images/1783097350013-6971651e-d50a-48cd-877e-1ad1d8ec203f.jpg",
+
+  excerpt: "Long before kingdoms carved their names into stone and before mankind learned to fear...",
+
+  content: `
+  
+      <p>Kidney health is important for removing waste and balancing fluids.</p>
+    <div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/2930/landingpage_l.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product Just For You:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Healthy Home Demo System, Spanish</a>
+    </div>
+  </div>
+  
+      <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
+    `
+  },
+
+
+  {
+    slug: "Clauneck-the-guardian-of-the-hidden-realm ",
+  
+  url:" Avocado.html",
+
+  title: "Clauneck: The Guardian of the Hidden Realm",
+
+  image: "https://www.image2url.com/r2/default/images/1783097350013-6971651e-d50a-48cd-877e-1ad1d8ec203f.jpg",
+
+  excerpt: "Long before kingdoms carved their names into stone and before mankind learned to fear...",
+
+  content: `
+  
+      <p>Kidney health is important for removing waste and balancing fluids.</p>
+    <div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/2930/landingpage_l.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product Just For You:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Healthy Home Demo System, Spanish</a>
+    </div>
+  </div>
+  
+      <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
+    `
+  },
+
+
+  {
+    slug: "Clauneck-the-guardian-of-the-hidden-realm ",
+  
+  url:" Kumquat.html",
+
+  title: "Clauneck: The Guardian of the Hidden Realm",
+
+  image: "https://www.image2url.com/r2/default/images/1783097350013-6971651e-d50a-48cd-877e-1ad1d8ec203f.jpg",
+
+  excerpt: "Long before kingdoms carved their names into stone and before mankind learned to fear...",
+
+  content: `
+  
+      <p>Kidney health is important for removing waste and balancing fluids.</p>
+    <div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/2930/landingpage_l.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product Just For You:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Healthy Home Demo System, Spanish</a>
+    </div>
+  </div>
+  
+      <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
+    `
+  },
+
+
+  {
+    slug: "Clauneck-the-guardian-of-the-hidden-realm ",
+  
+  url:" Clementine.html",
+
+  title: "Clauneck: The Guardian of the Hidden Realm",
+
+  image: "https://www.image2url.com/r2/default/images/1783097350013-6971651e-d50a-48cd-877e-1ad1d8ec203f.jpg",
+
+  excerpt: "Long before kingdoms carved their names into stone and before mankind learned to fear...",
+
+  content: `
+  
+      <p>Kidney health is important for removing waste and balancing fluids.</p>
+    <div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/2930/landingpage_l.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product Just For You:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Healthy Home Demo System, Spanish</a>
+    </div>
+  </div>
+  
+      <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
+    `
+  },
+
+
+  {
+    slug: "Clauneck-the-guardian-of-the-hidden-realm ",
+  
+  url:"Mulberry.html",
+
+  title: "Clauneck: The Guardian of the Hidden Realm",
+
+  image: "https://www.image2url.com/r2/default/images/1783097350013-6971651e-d50a-48cd-877e-1ad1d8ec203f.jpg",
+
+  excerpt: "Long before kingdoms carved their names into stone and before mankind learned to fear...",
+
+  content: `
+  
+      <p>Kidney health is important for removing waste and balancing fluids.</p>
+    <div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/2930/landingpage_l.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product Just For You:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Healthy Home Demo System, Spanish</a>
+    </div>
+  </div>
+  
+      <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
+    `
+  },
+
+
+{
+    slug: "Clauneck-the-guardian-of-the-hidden-realm ",
+  
+  url:" Elderberry.html",
+
+  title: "Clauneck: The Guardian of the Hidden Realm",
+
+  image: "https://www.image2url.com/r2/default/images/1783097350013-6971651e-d50a-48cd-877e-1ad1d8ec203f.jpg",
+
+  excerpt: "Long before kingdoms carved their names into stone and before mankind learned to fear...",
+
+  content: `
+  
+      <p>Kidney health is important for removing waste and balancing fluids.</p>
+    <div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/2930/landingpage_l.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product Just For You:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Healthy Home Demo System, Spanish</a>
+    </div>
+  </div>
+  
+      <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
+    `
+  },
+
+
+  {
+    slug: "Clauneck-the-guardian-of-the-hidden-realm ",
+  
+  url:" Gooseberry.html",
+
+  title: "Clauneck: The Guardian of the Hidden Realm",
+
+  image: "https://www.image2url.com/r2/default/images/1783097350013-6971651e-d50a-48cd-877e-1ad1d8ec203f.jpg",
+
+  excerpt: "Long before kingdoms carved their names into stone and before mankind learned to fear...",
+
+  content: `
+  
+      <p>Kidney health is important for removing waste and balancing fluids.</p>
+    <div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/2930/landingpage_l.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product Just For You:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Healthy Home Demo System, Spanish</a>
+    </div>
+  </div>
+  
+      <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
+    `
+  },
+
+
+  {
+    slug: "Clauneck-the-guardian-of-the-hidden-realm ",
+  
+  url:" Blackcurrant.html",
+
+  title: "Clauneck: The Guardian of the Hidden Realm",
+
+  image: "https://www.image2url.com/r2/default/images/1783097350013-6971651e-d50a-48cd-877e-1ad1d8ec203f.jpg",
+
+  excerpt: "Long before kingdoms carved their names into stone and before mankind learned to fear...",
+
+  content: `
+  
+      <p>Kidney health is important for removing waste and balancing fluids.</p>
+    <div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/2930/landingpage_l.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product Just For You:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Healthy Home Demo System, Spanish</a>
+    </div>
+  </div>
+  
+      <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
+    `
+  },
+
+  
+  {
+    slug: "Clauneck-the-guardian-of-the-hidden-realm ",
+  
+  url:" Redcurrant.html",
+
+  title: "Clauneck: The Guardian of the Hidden Realm",
+
+  image: "https://www.image2url.com/r2/default/images/1783097350013-6971651e-d50a-48cd-877e-1ad1d8ec203f.jpg",
+
+  excerpt: "Long before kingdoms carved their names into stone and before mankind learned to fear...",
+
+  content: `
+  
+      <p>Kidney health is important for removing waste and balancing fluids.</p>
+    <div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/2930/landingpage_l.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product Just For You:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Healthy Home Demo System, Spanish</a>
+    </div>
+  </div>
+  
+      <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
+    `
+  },
+
+
+{
+slug: "Clauneck-the-guardian-of-the-hidden-realm ",
+  
+  url:"Lemon.html",
+
+  title: "Clauneck: The Guardian of the Hidden Realm",
+
+  image: "https://www.image2url.com/r2/default/images/1783097350013-6971651e-d50a-48cd-877e-1ad1d8ec203f.jpg",
+
+  excerpt: "Long before kingdoms carved their names into stone and before mankind learned to fear...",
 
   content: `
 
 <p>
-The bell above the pharmacy door chimed softly as Michael stepped inside.
-He wasn't sick. At least, that's what he kept telling himself.
-At forty-eight years old, Michael was the kind of man who rarely visited doctors. He worked long hours managing a construction company, drank several cups of coffee every day, and convinced himself that feeling tired was simply part of getting older.
-"Just stress," he would say whenever his wife, Angela, asked about his headaches.
-But lately, the headaches had become more frequent.
-There were other signs too.
+
 </p>
 
-<p>
-He woke up exhausted despite sleeping all night. He sometimes felt dizzy when standing up. Small arguments at work seemed to make his heart pound harder than usual. Yet he ignored every warning.
-That Saturday morning, he entered the pharmacy only to buy vitamins.
-While waiting at the counter, he noticed a blood pressure machine sitting in the corner.
-FREE BLOOD PRESSURE CHECK
-A young pharmacist smiled.
-"Have you ever checked your blood pressure recently?"
-Michael shrugged.
-"Not really. I feel fine."
-The pharmacist laughed gently.
-"Many people with high blood pressure feel fine."
-The words barely registered.
-</p>
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/2930/landingpage_l.jpg" alt="Organic Green Tea">
 
+    <div>
+      <strong>Recommended Product Just For You:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Healthy Home Demo System, Spanish</a>
+    </div>
+  </div>
+  
 <p>
-Mostly because Michael was already sitting down in front of the machine.
-He slipped his arm into the cuff and pressed the button.
-The machine hummed quietly.
-The cuff tightened.
-Then tightened even more.
-A few seconds later, numbers appeared on the screen.
-182/112
-Michael stared.
-The pharmacist's smile disappeared.
-"Sir, can I see that?"
-Michael pointed at the screen.
-The pharmacist looked concerned.
-"Have you been diagnosed with high blood pressure before?"
-"No."
-</p>
 
-<p>
-Mostly because Michael was already sitting down in front of the machine.
-He slipped his arm into the cuff and pressed the button.
-The machine hummed quietly.
-The cuff tightened.
-Then tightened even more.
-A few seconds later, numbers appeared on the screen.
-182/112
-Michael stared.
-The pharmacist's smile disappeared.
-"Sir, can I see that?"
-Michael pointed at the screen.
-The pharmacist looked concerned.
-"Have you been diagnosed with high blood pressure before?"
-"No."
-</p>
-
-
-<p>
-Mostly because Michael was already sitting down in front of the machine.
-He slipped his arm into the cuff and pressed the button.
-The machine hummed quietly.
-The cuff tightened.
-Then tightened even more.
-A few seconds later, numbers appeared on the screen.
-182/112
-Michael stared.
-The pharmacist's smile disappeared.
-"Sir, can I see that?"
-Michael pointed at the screen.
-The pharmacist looked concerned.
-"Have you been diagnosed with high blood pressure before?"
-"No."
-</p>
-
-<p>
-Mostly because Michael was already sitting down in front of the machine.
-He slipped his arm into the cuff and pressed the button.
-The machine hummed quietly.
-The cuff tightened.
-Then tightened even more.
-A few seconds later, numbers appeared on the screen.
-182/112
-Michael stared.
-The pharmacist's smile disappeared.
-"Sir, can I see that?"
-Michael pointed at the screen.
-The pharmacist looked concerned.
-"Have you been diagnosed with high blood pressure before?"
-"No."
 </p>
 
 `
@@ -297,376 +801,458 @@ The pharmacist looked concerned.
 }, 
 
   {
-slug: "the-machine-at-the-pharmacy-told-a-different-story-chapter-2",
+slug: "Clauneck-the-guardian-of-the-hidden-realm ",
+  
+  url:"Lime.html",
 
-  series: "The Machine At The Pharmacy Told A Different Story",
+  title: "Clauneck: The Guardian of the Hidden Realm",
 
-url:"machine-at-the-pharmacy-chapter-2.html",
+  image: "https://www.image2url.com/r2/default/images/1783097350013-6971651e-d50a-48cd-877e-1ad1d8ec203f.jpg",
 
-  chapter: 2,
-
-title: "Chapter 2: The Machine At The Pharmacy Told A Different Story",
-
-  image: "https://www.image2url.com/r2/default/images/1781154681093-da3b869a-b8a8-4023-b5ec-8250f4011d9b.jpg",
-
-  excerpt: "The Machine At The Pharmacy Told A Different Story chapter 2 - by Dr Evelyn",
+  excerpt: "Long before kingdoms carved their names into stone and before mankind learned to fear...",
 
   content: `
   
       <p>Kidney health is important for removing waste and balancing fluids.</p>
+   
      <div class="affiliate-box">
-    <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/2930/landingpage_l.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://example.com" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product Just For You:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Healthy Home Demo System, Spanish</a>
     </div>
   </div>
+  
       <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
     `
   },
 
   {
-slug: "the-machine-at-the-pharmacy-told-a-different-story-chapter-2",
+slug: "Clauneck-the-guardian-of-the-hidden-realm ",
+  
+  url:"Grapefruit.html",
 
-  series: "The Machine At The Pharmacy Told A Different Story",
+  title: "Clauneck: The Guardian of the Hidden Realm",
 
-url:"machine-at-the-pharmacy-chapter-2.html",
+  image: "https://www.image2url.com/r2/default/images/1783097350013-6971651e-d50a-48cd-877e-1ad1d8ec203f.jpg",
 
-  chapter: 2,
-
-title: "Chapter 2: The Machine At The Pharmacy Told A Different Story",
-
-  image: "https://www.image2url.com/r2/default/images/1781154681093-da3b869a-b8a8-4023-b5ec-8250f4011d9b.jpg",
-
-  excerpt: "The Machine At The Pharmacy Told A Different Story chapter 2 - by Dr Evelyn",
+  excerpt: "Long before kingdoms carved their names into stone and before mankind learned to fear...",
 
   content: `
   
       <p>Kidney health is important for removing waste and balancing fluids.</p>
+     
      <div class="affiliate-box">
-    <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/2930/landingpage_l.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://example.com" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product Just For You:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Healthy Home Demo System, Spanish</a>
     </div>
   </div>
+  
       <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
     `
   },
 
   {
-slug: "the-machine-at-the-pharmacy-told-a-different-story-chapter-2",
+slug: "Clauneck-the-guardian-of-the-hidden-realm ",
+  
+  url:"Pomelo.html",
 
-  series: "The Machine At The Pharmacy Told A Different Story",
+  title: "Clauneck: The Guardian of the Hidden Realm",
 
-url:"machine-at-the-pharmacy-chapter-2.html",
+  image: "https://www.image2url.com/r2/default/images/1783097350013-6971651e-d50a-48cd-877e-1ad1d8ec203f.jpg",
 
-  chapter: 2,
-
-title: "Chapter 2: The Machine At The Pharmacy Told A Different Story",
-
-  image: "https://www.image2url.com/r2/default/images/1781154681093-da3b869a-b8a8-4023-b5ec-8250f4011d9b.jpg",
-
-  excerpt: "The Machine At The Pharmacy Told A Different Story chapter 2 - by Dr Evelyn",
+  excerpt: "Long before kingdoms carved their names into stone and before mankind learned to fear...",
 
   content: `
   
       <p>Diabetes is a chromebook .</p>
+     
       <div class="affiliate-box">
-    <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/2930/landingpage_l.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://example.com" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product Just For You:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Healthy Home Demo System, Spanish</a>
     </div>
   </div>
+  
       <p>Common symptoms include excessive thirst and fatigue.</p>
     `
   },
 
   {
-slug: "the-machine-at-the-pharmacy-told-a-different-story-chapter-2",
+slug: "Clauneck-the-guardian-of-the-hidden-realm ",
+  
+  url:"Durian.html",
 
-  series: "The Machine At The Pharmacy Told A Different Story",
+  title: "Clauneck: The Guardian of the Hidden Realm",
 
-url:"machine-at-the-pharmacy-chapter-2.html",
+  image: "https://www.image2url.com/r2/default/images/1783097350013-6971651e-d50a-48cd-877e-1ad1d8ec203f.jpg",
 
-  chapter: 2,
-
-title: "Chapter 2: The Machine At The Pharmacy Told A Different Story",
-
-  image: "https://www.image2url.com/r2/default/images/1781154681093-da3b869a-b8a8-4023-b5ec-8250f4011d9b.jpg",
-
-  excerpt: "The Machine At The Pharmacy Told A Different Story chapter 2 - by Dr Evelyn",
+  excerpt: "Long before kingdoms carved their names into stone and before mankind learned to fear...",
 
   content: `
   
       <p>Mental health affects overall wellbeing.</p>
+      
       <div class="affiliate-box">
-    <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/2930/landingpage_l.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://example.com" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product Just For You:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Healthy Home Demo System, Spanish</a>
     </div>
   </div>
+  
       <p>Practice mindfulness and get adequate sleep.</p>
     `
   },
 
   {
-slug: "the-machine-at-the-pharmacy-told-a-different-story-chapter-2",
+slug: "Clauneck-the-guardian-of-the-hidden-realm ",
+  
+  url:"Jackfruit.html",
 
-  series: "The Machine At The Pharmacy Told A Different Story",
+  title: "Clauneck: The Guardian of the Hidden Realm",
 
-url:"machine-at-the-pharmacy-chapter-2.html",
+  image: "https://www.image2url.com/r2/default/images/1783097350013-6971651e-d50a-48cd-877e-1ad1d8ec203f.jpg",
 
-  chapter: 2,
-
-title: "Chapter 2: The Machine At The Pharmacy Told A Different Story",
-
-  image: "https://www.image2url.com/r2/default/images/1781154681093-da3b869a-b8a8-4023-b5ec-8250f4011d9b.jpg",
-
-  excerpt: "The Machine At The Pharmacy Told A Different Story chapter 2 - by Dr Evelyn",
+  excerpt: "Long before kingdoms carved their names into stone and before mankind learned to fear...",
 
   content: `
   
       <p>Exercise, hydration and balanced nutrition help immunity.</p>
+     
       <div class="affiliate-box">
-    <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/2930/landingpage_l.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://example.com" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product Just For You:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Healthy Home Demo System, Spanish</a>
     </div>
   </div>
+  
       <p>Sleep is equally important for immune function.</p>
     `
   },
 
   {
-slug: "the-machine-at-the-pharmacy-told-a-different-story-chapter-2",
+slug: "Clauneck-the-guardian-of-the-hidden-realm ",
+  
+  url:"Breadfruit.html",
 
-  series: "The Machine At The Pharmacy Told A Different Story",
+  title: "Clauneck: The Guardian of the Hidden Realm",
 
-url:"machine-at-the-pharmacy-chapter-2.html",
+  image: "https://www.image2url.com/r2/default/images/1783097350013-6971651e-d50a-48cd-877e-1ad1d8ec203f.jpg",
 
-  chapter: 2,
-
-title: "Chapter 2: The Machine At The Pharmacy Told A Different Story",
-
-  image: "https://www.image2url.com/r2/default/images/1781154681093-da3b869a-b8a8-4023-b5ec-8250f4011d9b.jpg",
-
-  excerpt: "The Machine At The Pharmacy Told A Different Story chapter 2 - by Dr Evelyn",
+  excerpt: "Long before kingdoms carved their names into stone and before mankind learned to fear...",
 
   content: `
   
       <p>Crash dieting may damage metabolism.</p>
+     
       <div class="affiliate-box">
-    <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/2930/landingpage_l.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://example.com" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product Just For You:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Healthy Home Demo System, Spanish</a>
     </div>
   </div>
+  
       <p>Consistency and nutrition matter most.</p>
     `
   },
 
   {
-slug: "the-machine-at-the-pharmacy-told-a-different-story-chapter-2",
+slug: "Clauneck-the-guardian-of-the-hidden-realm ",
+  
+  url:"Fig.html",
 
-  series: "The Machine At The Pharmacy Told A Different Story",
+  title: "Clauneck: The Guardian of the Hidden Realm",
 
-url:"machine-at-the-pharmacy-chapter-2.html",
+  image: "https://www.image2url.com/r2/default/images/1783097350013-6971651e-d50a-48cd-877e-1ad1d8ec203f.jpg",
 
-  chapter: 2,
-
-title: "Chapter 2: The Machine At The Pharmacy Told A Different Story",
-
-  image: "https://www.image2url.com/r2/default/images/1781154681093-da3b869a-b8a8-4023-b5ec-8250f4011d9b.jpg",
-
-  excerpt: "The Machine At The Pharmacy Told A Different Story chapter 2 - by Dr Evelyn",
+  excerpt: "Long before kingdoms carved their names into stone and before mankind learned to fear...",
 
   content: `
   
       <p>Prenatal care is essential during pregnancy.</p>
       <div class="affiliate-box">
-    <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/2930/landingpage_l.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://example.com" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product Just For You:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Healthy Home Demo System, Spanish</a>
     </div>
   </div>
+  
       <p>Attend regular medical checkups.</p>
     `
   },
 
  {
-    slug: "Natural-Ways-to-Sleep-Better",
-    title: "The Secret Baby Of Blackwood Castle",
-    image: "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?q=80&w=1200&auto=format&fit=crop",
-    excerpt: "Chapter One ",
-    content: `
+    slug: "Clauneck-the-guardian-of-the-hidden-realm ",
+  
+  url:"Date.html",
+
+  title: "Clauneck: The Guardian of the Hidden Realm",
+
+  image: "https://www.image2url.com/r2/default/images/1783097350013-6971651e-d50a-48cd-877e-1ad1d8ec203f.jpg",
+
+  excerpt: "Long before kingdoms carved their names into stone and before mankind learned to fear...",
+
+  content: `
+  
       <p>A healthy sleep routine improves energy and focus.</p>
    <div class="affiliate-box">
-    <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/2930/landingpage_l.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://example.com" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product Just For You:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Healthy Home Demo System, Spanish</a>
     </div>
   </div>
+  
       <p>Avoid screens before bedtime.</p>
     `
   },
 
   {
-    slug: "Best-Exercises-for-Heart-Health",
-    title: "The Boy Who Could Hear Graves",
-    image: "https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop",
-    excerpt: "Chapter One ",
-    content: `
+    slug: "Clauneck-the-guardian-of-the-hidden-realm ",
+  
+  url:"Kiwi.html",
+
+  title: "Clauneck: The Guardian of the Hidden Realm",
+
+  image: "https://www.image2url.com/r2/default/images/1783097350013-6971651e-d50a-48cd-877e-1ad1d8ec203f.jpg",
+
+  excerpt: "Long before kingdoms carved their names into stone and before mankind learned to fear...",
+
+  content: `
+  
       <p>Walking and cycling improve heart health.</p>
-    <div class="affiliate-box">
-    <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
+   
+<div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/2930/landingpage_l.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://example.com" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product Just For You:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Healthy Home Demo System, Spanish</a>
     </div>
   </div>
+  
       <p>Exercise at least 30 minutes daily.</p>
     `
   },
 
   {
-    slug: "Common-Causes-of-Fatigue",
-    title: "The Church Beneath The Cemetery",
-    image: "https://images.unsplash.com/photo-1517841905240-472988babdf9?q=80&w=1200&auto=format&fit=crop",
-    excerpt: "Chapter One ",
-    content: `
+    slug: "Clauneck-the-guardian-of-the-hidden-realm ",
+  
+  url:"Dragon-fruit.html",
+
+  title: "Clauneck: The Guardian of the Hidden Realm",
+
+  image: "https://www.image2url.com/r2/default/images/1783097350013-6971651e-d50a-48cd-877e-1ad1d8ec203f.jpg",
+
+  excerpt: "Long before kingdoms carved their names into stone and before mankind learned to fear...",
+
+  content: `
+  
       <p>Fatigue may result from stress, poor diet or illness.</p>
+     
       <div class="affiliate-box">
-    <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/2930/landingpage_l.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://example.com" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product Just For You:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Healthy Home Demo System, Spanish</a>
     </div>
   </div>
+  
       <p>Seek professional medical advice if symptoms persist.</p>
     `
   },
   
     {
-    slug: "best-food-for-healthy-kidney",
-    title: "My Roommate is The Devil's Daughter ",
-    image: "https://images.unsplash.com/photo-1490645935967-10de6ba17061?q=80&w=1200&auto=format&fit=crop",
-    excerpt: "Chapter One",
-    content: `
+    slug: "Clauneck-the-guardian-of-the-hidden-realm ",
+  
+  url:"Lychee.html",
+
+  title: "Clauneck: The Guardian of the Hidden Realm",
+
+  image: "https://www.image2url.com/r2/default/images/1783097350013-6971651e-d50a-48cd-877e-1ad1d8ec203f.jpg",
+
+  excerpt: "Long before kingdoms carved their names into stone and before mankind learned to fear...",
+
+  content: `
+  
+      <p>Kidney health is important for removing waste and balancing fluids.</p>
+      
+       <div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/2930/landingpage_l.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product Just For You:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Healthy Home Demo System, Spanish</a>
+    </div>
+  </div>
+  
+      <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
+    `
+  },
+  
+  
+    {
+    slug: "Clauneck-the-guardian-of-the-hidden-realm ",
+  
+  url:"Rambutan.html",
+
+  title: "Clauneck: The Guardian of the Hidden Realm",
+
+  image: "https://www.image2url.com/r2/default/images/1783097350013-6971651e-d50a-48cd-877e-1ad1d8ec203f.jpg",
+
+  excerpt: "Long before kingdoms carved their names into stone and before mankind learned to fear...",
+
+  content: `
+  
       <p>Kidney health is important for removing waste and balancing fluids.</p>
        <div class="affiliate-box">
-    <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/2930/landingpage_l.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://example.com" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product Just For You:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Healthy Home Demo System, Spanish</a>
     </div>
   </div>
+  
       <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
     `
   },
   
   
     {
-    slug: "best-food-for-healthy-kidney",
-    title: "The Last Qeen Of Horrow Earth ",
-    image: "https://images.unsplash.com/photo-1490645935967-10de6ba17061?q=80&w=1200&auto=format&fit=crop",
-    excerpt: "Chapter One ",
-    content: `
-      <p>Kidney health is important for removing waste and balancing fluids.</p>
-       <div class="affiliate-box">
-    <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
+    slug: "Clauneck-the-guardian-of-the-hidden-realm ",
+  
+  url:"Longan.html",
 
-    <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://example.com" target="_blank">Organic Green Tea</a>
-    </div>
-  </div>
-      <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
-    `
-  },
+  title: "Clauneck: The Guardian of the Hidden Realm",
+
+  image: "https://www.image2url.com/r2/default/images/1783097350013-6971651e-d50a-48cd-877e-1ad1d8ec203f.jpg",
+
+  excerpt: "Long before kingdoms carved their names into stone and before mankind learned to fear...",
+
+  content: `
   
-  
-    {
-    slug: "best-food-for-healthy-kidney",
-    title: "The Last Daughter Of The Moon Kingdom ",
-    image: "https://images.unsplash.com/photo-1490645935967-10de6ba17061?q=80&w=1200&auto=format&fit=crop",
-    excerpt: "Chapter One ",
-    content: `
       <p>Kidney health is important for removing waste and balancing fluids.</p>
      <div class="affiliate-box">
-    <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/2930/landingpage_l.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://example.com" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product Just For You:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Healthy Home Demo System, Spanish</a>
     </div>
   </div>
+  
       <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
     `
   },
   
   
     {
-    slug: "best-food-for-healthy-kidney",
-    title: "The Boy Who Could Stop Time ",
-    image: "https://images.unsplash.com/photo-1490645935967-10de6ba17061?q=80&w=1200&auto=format&fit=crop",
-    excerpt: "Chapter One ",
-    content: `
-      <p>Kidney health is important for removing waste and balancing fluids.</p>
-     <div class="affiliate-box">
-    <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
+    slug: "Clauneck-the-guardian-of-the-hidden-realm ",
+  
+  url:"Guava.html",
 
-    <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://example.com" target="_blank">Organic Green Tea</a>
-    </div>
-  </div>
-      <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
-    `
-  },
+  title: "Clauneck: The Guardian of the Hidden Realm",
+
+  image: "https://www.image2url.com/r2/default/images/1783097350013-6971651e-d50a-48cd-877e-1ad1d8ec203f.jpg",
+
+  excerpt: "Long before kingdoms carved their names into stone and before mankind learned to fear...",
+
+  content: `
   
-  
-    {
-    slug: "best-food-for-healthy-kidney",
-    title: "The Boy With Fire In The Veins ",
-    image: "https://images.unsplash.com/photo-1490645935967-10de6ba17061?q=80&w=1200&auto=format&fit=crop",
-    excerpt: "Chapter One ",
-    content: `
       <p>Kidney health is important for removing waste and balancing fluids.</p>
     <div class="affiliate-box">
-    <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/2930/landingpage_l.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://example.com" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product Just For You:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Healthy Home Demo System, Spanish</a>
     </div>
   </div>
+  
+      <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
+    `
+  },
+
+
+{
+    slug: "Clauneck-the-guardian-of-the-hidden-realm ",
+  
+  url:" Pear.html",
+
+  title: "Clauneck: The Guardian of the Hidden Realm",
+
+  image: "https://www.image2url.com/r2/default/images/1783097350013-6971651e-d50a-48cd-877e-1ad1d8ec203f.jpg",
+
+  excerpt: "Long before kingdoms carved their names into stone and before mankind learned to fear...",
+
+  content: `
+  
+      <p>Kidney health is important for removing waste and balancing fluids.</p>
+    <div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/2930/landingpage_l.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product Just For You:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Healthy Home Demo System, Spanish</a>
+    </div>
+  </div>
+  
+      <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
+    `
+  },
+
+  
+  
+    {
+    slug: "Apricot",
+  
+  url:"Apricot.html",
+
+  title: "Clauneck: The Guardian of the Hidden Realm",
+
+  image: "https://www.image2url.com/r2/default/images/1783097350013-6971651e-d50a-48cd-877e-1ad1d8ec203f.jpg",
+
+  excerpt: "Long before kingdoms carved their names into stone and before mankind learned to fear...",
+
+  content: `
+  
+      <p>Kidney health is important for removing waste and balancing fluids.</p>
+   
+    <div class="affiliate-box">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/2930/landingpage_l.jpg" alt="Organic Green Tea">
+
+    <div>
+      <strong>Recommended Product Just For You:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Healthy Home Demo System, Spanish</a>
+    </div>
+  </div>
+  
       <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
     `
   },
   
   
     {
-    slug: "the-last-kingdom-that-remembered-clauneck ",
+    slug: "Plum",
   
-  url:"the-last-kingdom-that-remembered-clauneck.html",
+  url:"Plum.html",
 
   title: "The Last Kingdom That Remembered Clauneck",
 
@@ -677,23 +1263,25 @@ title: "Chapter 2: The Machine At The Pharmacy Told A Different Story",
   content: `
   
       <p>Kidney health is important for removing waste and balancing fluids.</p>
+    
      <div class="affiliate-box">
-    <img src="https://images.unsplash.com/photo-1518611012118-696072aa579a?q=80&w=1200&auto=format&fit=crop" alt="Organic Green Tea">
+    <img src="https://s3-us-west-1.amazonaws.com/static.neolife.com/market/us/sku/2930/landingpage_l.jpg" alt="Organic Green Tea">
 
     <div>
-      <strong>Recommended Product:</strong><br>
-      <a href="https://example.com" target="_blank">Organic Green Tea</a>
+      <strong>Recommended Product Just For You:</strong><br>
+      <a href="https://shopneolife.com/peterezeudu/shop/atoz" target="_blank">Healthy Home Demo System, Spanish</a>
     </div>
   </div>
+  
       <p>Eat fruits, vegetables, and avoid excess processed foods.</p>
     `
   },
   
   
     {
-    slug: "Clauneck-the-guardian-of-the-hidden-realm ",
+    slug: "Nectarine ",
   
-  url:"Clauneck-the-guardian-of-the-hidden-realm.html",
+  url:"Nectarine.html",
 
   title: "Clauneck: The Guardian of the Hidden Realm",
 
