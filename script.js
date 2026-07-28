@@ -292,14 +292,8 @@ loading="lazy">
 
 <h1>${post.title}</h1>
 
-
 <div class="story-share">
-
-
 <h3>Share This Story</h3>
-
-
-
 <a class="share whatsapp"
 target="_blank"
 
@@ -310,9 +304,6 @@ post.title+" "+window.location.href
 WhatsApp
 
 </a>
-
-
-
 <a class="share facebook"
 target="_blank"
 
@@ -323,8 +314,6 @@ window.location.href
 Facebook
 
 </a>
-
-
 <a
 class="share telegram"
 target="_blank"
@@ -333,9 +322,6 @@ href="https://t.me/share/url?url=${encodeURIComponent(window.location.href)}&tex
 Telegram
 
 </a>
-
-
-
 <a class="share x"
 target="_blank"
 
@@ -344,17 +330,12 @@ href="https://twitter.com/intent/tweet?text=${encodeURIComponent(post.title)}&ur
 X
 
 </a>
-
-
-
 <button class="share copy-link"
 onclick="copyLink()">
 
 Copy Link
 
 </button>
-
-
 </div>
 
 
