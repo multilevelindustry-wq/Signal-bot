@@ -482,6 +482,11 @@ footer {
   margin:15px 0;
 }
 
+.story-share,
+.story-share * {
+    white-space: normal;
+}
+
 .share{
   text-decoration:none;
   color:white;
