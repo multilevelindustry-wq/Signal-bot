@@ -21,6 +21,7 @@ overflow-x:hidden;
 }
 
 
+
 .header {
   display: flex;
   justify-content: space-between;
@@ -157,6 +158,10 @@ overflow-x:hidden;
 
 .post-content {
   padding: 20px;
+}
+.post-content {
+    white-space: pre-wrap;
+    word-wrap: break-word;
 }
 
 .post-content h3 {
@@ -1143,6 +1148,5 @@ align-items:center;
 display:none;
 
 }
-
-
 }
+
