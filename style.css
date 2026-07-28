@@ -159,7 +159,8 @@ overflow-x:hidden;
 .post-content {
   padding: 20px;
 }
-.post-content {
+
+.main-post {
     white-space: pre-wrap;
     word-wrap: break-word;
 }
